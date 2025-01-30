@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MurtadaAhmed<br>👀 A junior Python web developer<br>🌱 Currently studying software engineering/Full Stack Deveolper<br>
+👋 Hi, I’m @MurtadaAhmed<br>👀 A junior Python web developer<br>🌱<br>
 
 
 # 💻 Tech Stack:
