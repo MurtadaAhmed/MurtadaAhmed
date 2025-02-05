@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="MNh_pe3JqTwQdHIoq7YMCG7ZIKgR2yvucFAk0ch0UAo" />
 # 💫 About Me:
 👋 Hi, I’m @MurtadaAhmed<br>👀 A junior Python web developer
 
