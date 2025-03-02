@@ -2,6 +2,7 @@
 
 I’m a junior web developer with experience in creating dynamic web applications. I’m proficient in the following technologies:
 
+- **Languages:** 🖋️ Python, JavaScript, Kotlin, Go
 - **Backend Development**: 🖥️ Django, Django REST Framework, FastAPI, Flask, Selenium, Node.js
 - **Frontend Development**: 🎨 JavaScript, HTML, CSS, React
 - **Databases**: 🗄️ PostgreSQL, MySQL, SQLite
