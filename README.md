@@ -6,6 +6,7 @@ I’m a junior web developer with experience in creating dynamic web application
 - **Backend Development**: 🖥️ Django, Django REST Framework, FastAPI, Flask, Selenium, Node.js
 - **Frontend Development**: 🎨 JavaScript, HTML, CSS, React
 - **Databases**: 🗄️ PostgreSQL, MySQL, SQLite
+- **Scripting & Automation:** 📜 Google Apps Script
 - **Data Science & Analytics**: 📊 Matplotlib, NumPy, Pandas, Scikit-learn
 - **Testing & Quality Assurance**: 🧪 Pytest
 - **CI/CD & DevOps**: 🔄 GitHub Actions, Continuous integration and deployment pipelines, ⚙️ Monitoring and alerting tools like Grafana and Prometheus. Basics of Kubernetes.
